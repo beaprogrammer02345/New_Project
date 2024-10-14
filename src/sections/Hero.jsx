@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 import { Element, Link as LinkScroll } from "react-scroll";
 import Button from "../components/Button.jsx";
 
@@ -21,15 +17,13 @@ const Hero = () => {
               We designed Xora AI effortless Intelligence for Everyone — Quick
               to Learn, Easy to Use, and Surprisingly Powerful.
             </p>
-<<<<<<< HEAD
             {/*<LinkScroll to="features" offset={-100} spy smooth>*/}
             <Button icon="/images/zap.svg" href="https://saas-chi-two.vercel.app/">Try it now</Button>
             {/*</LinkScroll>*/}
-=======
+
             <LinkScroll to="features" offset={-100} spy smooth>
               <Button icon="/images/zap.svg">Try it now</Button>
             </LinkScroll>
->>>>>>> origin/master
           </div>
 
           <div className="absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res">
