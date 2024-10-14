@@ -58,41 +58,41 @@ export const faq = [
     question:
       "What types of business strategies does Xora provide to enhance decision-making?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Xora offers ROI calculators, sales analysis, forecasting, business reports, SEO tools, text summarization, and icon generation to empower data-driven decision-making and strategy",
   },
   {
     id: "2",
     question:
       "Can I customize the dashboard to display specific KPIs relevant to my business?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely! The dashboard displays built-in KPIs like sales, profit, profit margin, and order metrics, with percentage changes compared to the previous month for performance analysis.",
   },
   {
     id: "3",
     question:
       "What kind of user support and resources are available to help me get started with Xora??",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Xora is easy to start with! Enjoy a 30-day free trial to explore its features. Simply sign in to create an account and access all services through a user-friendly interface.",
   },
   {
     id: "4",
     question:
       "How does Xora handle scaling as my business grows, especially in terms of data processing and analytics?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Xora scales seamlessly with your business, ensuring fast data processing and analytics. It adapts to growing data needs, providing reliable performance and actionable insights at every stage.",
   },
   {
     id: "5",
     question:
       "Can I visualize my sales data in different formats (e.g., graphs, tables) using the dashboard?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, you can visualize your sales data using various formats, including bar charts, graphs, pie charts, and forecasting tools, providing a comprehensive analysis tailored to your needs.",
   },
   {
     id: "6",
     question: "How does Xora help me calculate the ROI of my Facebook Ads?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Xora calculates your Facebook Ads ROI by taking user-provided data, analyzing key metrics, and generating a precise ROI percentage, helping you evaluate your ad performance effectively.",
   },
   {
     id: "7",
@@ -106,14 +106,14 @@ export const faq = [
     question:
       "What customization options are available for generating icons with Xora?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Xora offers various customization options for generating icons, including selecting shapes, colors, styles, and sizes, allowing you to create unique icons that match your brand identity.",
   },
   {
     id: "9",
     question:
       "What specific services does GPT-4 offer within Xora, and how can they benefit my business?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Within Xora, GPT-4 offers services such as SEO analysis, text summarization, and content generation. These tools can enhance your business by improving online visibility, streamlining content creation, and providing insights to drive informed decisions.",
   },
 ];
 
