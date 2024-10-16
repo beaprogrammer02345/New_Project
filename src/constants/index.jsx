@@ -4,7 +4,7 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "Effortless Insights and Solutions",
     title: "Work smarter not harder",
-    text: "With Xenia, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -15,7 +15,7 @@ export const features = [
     icon: "/images/feature-2.png",
     caption: "Smart Strategies, Zero Hassle",
     title: "Sleep easy, we got your back",
-    text: "Xenia provides actionable insights, automates workflows, and optimizes performance to boost efficiency and growth—letting you focus on what matters most .",
+    text: "Xora provides actionable insights, automates workflows, and optimizes performance to boost efficiency and growth—letting you focus on what matters most .",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
@@ -51,14 +51,14 @@ export const faq = [
     id: "0",
     question: "What services are available in Xenia?",
     answer:
-      "Xenia offers ROI calculations, business strategies, a sales dashboard, an icon generator, and GPT-4 services for efficient business operations.",
+      "Xora offers ROI calculations, business strategies, a sales dashboard, an icon generator, and GPT-4 services for efficient business operations.",
   },
   {
     id: "1",
     question:
       "What types of business strategies does Xenia provide to enhance decision-making?",
     answer:
-      "Xenia offers ROI calculators, sales analysis, forecasting, business reports, SEO tools, text summarization, and icon generation to empower data-driven decision-making and strategy",
+      "Xora offers ROI calculators, sales analysis, forecasting, business reports, SEO tools, text summarization, and icon generation to empower data-driven decision-making and strategy",
   },
   {
     id: "2",
@@ -72,14 +72,14 @@ export const faq = [
     question:
       "What kind of user support and resources are available to help me get started with Xenia?",
     answer:
-      "Xenia is easy to start with! Enjoy a 30-day free trial to explore its features. Simply sign in to create an account and access all services through a user-friendly interface.",
+      "Xora is easy to start with! Enjoy a 30-day free trial to explore its features. Simply sign in to create an account and access all services through a user-friendly interface.",
   },
   {
     id: "4",
     question:
-      "How does Xenia handle scaling as my business grows, especially in terms of data processing and analytics?",
+      "How does Xora handle scaling as my business grows, especially in terms of data processing and analytics?",
     answer:
-      "Xenia scales seamlessly with your business, ensuring fast data processing and analytics. It adapts to growing data needs, providing reliable performance and actionable insights at every stage.",
+      "Xora scales seamlessly with your business, ensuring fast data processing and analytics. It adapts to growing data needs, providing reliable performance and actionable insights at every stage.",
   },
   {
     id: "5",
@@ -90,9 +90,9 @@ export const faq = [
   },
   {
     id: "6",
-    question: "How does Xenia help me calculate the ROI of my Facebook Ads?",
+    question: "How does Xora help me calculate the ROI of my Facebook Ads?",
     answer:
-      "Xenia calculates your Facebook Ads ROI by taking user-provided data, analyzing key metrics, and generating a precise ROI percentage, helping you evaluate your ad performance effectively.",
+      "Xora calculates your Facebook Ads ROI by taking user-provided data, analyzing key metrics, and generating a precise ROI percentage, helping you evaluate your ad performance effectively.",
   },
   {
     id: "7",
@@ -104,16 +104,16 @@ export const faq = [
   {
     id: "8",
     question:
-      "What customization options are available for generating icons with Xenia?",
+      "What customization options are available for generating icons with Xora?",
     answer:
-      "Xenia offers various customization options for generating icons, including selecting shapes, colors, styles, and sizes, allowing you to create unique icons that match your brand identity.",
+      "Xora offers various customization options for generating icons, including selecting shapes, colors, styles, and sizes, allowing you to create unique icons that match your brand identity.",
   },
   {
     id: "9",
     question:
-      "What specific services does GPT-4 offer within Xenia, and how can they benefit my business?",
+      "What specific services does GPT-4 offer within Xora, and how can they benefit my business?",
     answer:
-      "Within Xenia, GPT-4 offers services such as SEO analysis, text summarization, and content generation. These tools can enhance your business by improving online visibility, streamlining content creation, and providing insights to drive informed decisions.",
+      "Within Xora, GPT-4 offers services such as SEO analysis, text summarization, and content generation. These tools can enhance your business by improving online visibility, streamlining content creation, and providing insights to drive informed decisions.",
   },
 ];
 
@@ -204,7 +204,7 @@ export const testimonials = [
     role: "Floclips",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xenia last month, and I'm already seeing results. Best decision for our team!",
+      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
   },
   {
     id: "5",
