@@ -14,7 +14,7 @@ const Hero = () => {
               Amazingly simple
             </h1>
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
-              We designed Xenia AI effortless Intelligence for Everyone — Quick
+              We designed Xora AI effortless Intelligence for Everyone — Quick
               to Learn, Easy to Use, and Surprisingly Powerful.
             </p>
             {/*<LinkScroll to="features" offset={-100} spy smooth>*/}
