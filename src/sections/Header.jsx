@@ -48,10 +48,11 @@ const Header = () => {
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
           <img
-            src="/images/BrainX.svg"
+            src="/images/main_3.png"
             width={115}
             height={55}
-            alt="BrainiX logo"
+            alt="Xenia logo"
+            className="opacity-90"
           />
         </a>
 
@@ -79,13 +80,15 @@ const Header = () => {
                     className={clsx(
                       "max-lg:hidden transition-transform duration-500 cursor-pointer",
                     )}
-                    title="BrainiX"
+                    title="Xenia"
                   >
                     <img
-                      src="/images/BrainX.svg"
+                      src="/images/main_3.png"
                       width={160}
                       height={55}
-                      alt="BrainiX logo"
+                      alt="Xenia logo"
+                      className="opacity-90"
+
                     />
 
                   </LinkScroll>
