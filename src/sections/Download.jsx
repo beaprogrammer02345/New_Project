@@ -14,7 +14,7 @@ const Download = () => {
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
               <div className="mb-10">
                 <img
-                  src="/images/main_2.png"
+                  src="/images/BrainX.svg"
                   width={160}
                   height={55}
                   alt="xenia"
