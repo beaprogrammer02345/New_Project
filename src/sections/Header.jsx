@@ -83,7 +83,7 @@ const Header = () => {
                     title="Xenia"
                   >
                     <img
-                      src="/images/BrainX"
+                      src="/images/BrainX.svg"
                       width={160}
                       height={55}
                       alt="Xenia logo"
