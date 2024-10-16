@@ -49,14 +49,14 @@ export const details = [
 export const faq = [
   {
     id: "0",
-    question: "What services are available in Xenia?",
+    question: "What services are available in Xora?",
     answer:
       "Xora offers ROI calculations, business strategies, a sales dashboard, an icon generator, and GPT-4 services for efficient business operations.",
   },
   {
     id: "1",
     question:
-      "What types of business strategies does Xenia provide to enhance decision-making?",
+      "What types of business strategies does Xora provide to enhance decision-making?",
     answer:
       "Xora offers ROI calculators, sales analysis, forecasting, business reports, SEO tools, text summarization, and icon generation to empower data-driven decision-making and strategy",
   },
@@ -70,7 +70,7 @@ export const faq = [
   {
     id: "3",
     question:
-      "What kind of user support and resources are available to help me get started with Xenia?",
+      "What kind of user support and resources are available to help me get started with Xora?",
     answer:
       "Xora is easy to start with! Enjoy a 30-day free trial to explore its features. Simply sign in to create an account and access all services through a user-friendly interface.",
   },
