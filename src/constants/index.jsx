@@ -172,7 +172,7 @@ export const testimonials = [
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xenia's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
   },
   {
     id: "1",
